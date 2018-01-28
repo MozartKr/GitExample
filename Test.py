@@ -1,5 +1,6 @@
 def foo():
-    return "foo!"
+    msg = "B"
+    return msg
 
 print ("Hello world")
 print (foo())
